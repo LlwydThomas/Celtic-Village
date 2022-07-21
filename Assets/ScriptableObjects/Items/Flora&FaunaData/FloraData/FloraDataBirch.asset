@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d76fd6157287149b0a94dac32c2b49, type: 3}
+  m_Name: FloraDataBirch
+  m_EditorClassIdentifier: 
+  uniqueType: BirchTree
+  ID: 2
+  destructionSpeedFactor: 0.1
+  outputResources:
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+      count: 5
+    probability: 1
+  - requiredResource:
+      resource: {fileID: 11400000, guid: f44d44b8396e39947b7e124c132a9c97, type: 2}
+      count: 2
+    probability: 0.95
+  requiredToGrow:
+  - resource: {fileID: 11400000, guid: f44d44b8396e39947b7e124c132a9c97, type: 2}
+    count: 1
+  growable: 1
+  prefabOffset: {x: 0, y: 0}
+  icon: {fileID: 21300000, guid: d308d4bacec0b8f49bddfc6299884cec, type: 3}
+  seedlingPrefab: {fileID: 7136179701719690495, guid: 2de316cf7ba93c2449b77de675818b43,
+    type: 3}
+  growingPrefab: {fileID: 7136179701719690495, guid: 2de316cf7ba93c2449b77de675818b43,
+    type: 3}
+  maturePrefab: {fileID: 7136179701719690495, guid: 2de316cf7ba93c2449b77de675818b43,
+    type: 3}
+  allowedTiles:
+  - {fileID: 11400000, guid: 1761ecddab464734b9b2dada44f454a0, type: 2}
+  - {fileID: 11400000, guid: 8b0d17a9caabdc44b8d5ad52be575941, type: 2}
+  spreadChance: 0.05
+  growthSeasons: 01010101
+  baseYield: 15
+  size: {x: 3, y: 4}
+  daysToMature: 4
+  floraCategory: 0
+  qualityTier: 0

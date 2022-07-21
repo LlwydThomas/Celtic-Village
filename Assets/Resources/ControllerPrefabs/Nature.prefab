@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2682818376421221238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2682818376421221239}
+  - component: {fileID: 2682818376421221232}
+  - component: {fileID: 2682818376421221233}
+  m_Layer: 0
+  m_Name: Nature
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2682818376421221239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2682818376421221238}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2682818376421221232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2682818376421221238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6da83de7c9e5aab448da3f1f044b7a87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  floraItemParent: {fileID: 0}
+  treeParent: {fileID: 0}
+  plantParent: {fileID: 0}
+  loadingBarScript: {fileID: 0}
+  floraDataListObject: {fileID: 11400000, guid: 374ea2bab2fe3a04d92ddc2546b77a1e,
+    type: 2}
+  floraDataList: []
+--- !u!114 &2682818376421221233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2682818376421221238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf1ecc9afd6015469b8c86e1d8d3e39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resourceTracker: {fileID: 0}
+  selectionPanel: {fileID: 0}
+  cropPatchPrefab: {fileID: 1511123826957672589, guid: d00b71b546c4a9e4f9f4dc132ca6c0c4,
+    type: 3}
+  topMapObject: {fileID: 0}
+  farmMainParent: {fileID: 0}
+  farmingDataList: {fileID: 11400000, guid: d791e278d99f6af48b6f1c34f1485627, type: 2}

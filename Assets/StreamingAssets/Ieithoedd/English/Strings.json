@@ -1,0 +1,457 @@
+{
+   "dataList":[
+      {
+         "variable":"Filename",
+         "value":"hello"
+      },
+      {
+         "variable":"Hut",
+         "value":"Hut"
+      },
+      {
+         "variable":"General",
+         "value":"General"
+      },
+      {
+         "variable":"Video",
+         "value":"Video"
+      },
+      {
+         "variable":"Back",
+         "value":"Back"
+      },
+      {
+         "variable":"Keyboard",
+         "value":"Keyboard"
+      },
+      {
+         "variable":"NewGame",
+         "value":"New Game"
+      },
+      {
+         "variable":"LoadGame",
+         "value":"Load Game"
+      },
+      {
+         "variable":"Load",
+         "value":"Load Game"
+      },
+      {
+         "variable":"InputSaveName",
+         "value":"Input Save Name"
+      },
+      {
+         "variable":"OutputResources",
+         "value":"Outputs"
+      },
+      {
+         "variable":"InputResources",
+         "value":"Inputs"
+      },
+      {
+         "variable":"AmountText",
+         "value":"Count(Weight)"
+      },
+      {
+         "variable":"Settings",
+         "value":"Settings"
+      },
+      {
+         "variable":"Quit",
+         "value":"Quit"
+      },
+      {
+         "variable":"SaveGame",
+         "value":"Save Game"
+      },
+      {
+         "variable":"Cottage",
+         "value":"Cottage"
+      },
+      {
+         "variable":"Road",
+         "value":"Road"
+      },
+      {
+         "variable":"Housing",
+         "value":"Housing"
+      },
+      {
+         "variable":"Woodcutting",
+         "value":"Woodcutting"
+      },
+      {
+         "variable":"Cooking",
+         "value":"Cooking"
+      },
+      {
+         "variable":"Foraging",
+         "value":"Foraging"
+      },
+      {
+         "variable":"NameText",
+         "value":"Village Name"
+      },
+      {
+         "variable":"SeedText",
+         "value":"Map Seed"
+      },
+      {
+         "variable":"DifficultyText",
+         "value":"Difficulty"
+      },
+      {
+         "variable":"PawnCountText",
+         "value":"Number of Villagers"
+      },
+      {
+         "variable":"SaveLoad",
+         "value":"Save/Load"
+      },
+      {
+         "variable":"Options",
+         "value":"Options"
+      },
+      {
+         "variable":"Growth",
+         "value":"Growth"
+      },
+      {
+         "variable":"OakTree",
+         "value":"Oak"
+      },
+      {
+         "variable":"BirchTree",
+         "value":"Birch"
+      },
+      {
+         "variable":"WillowTree",
+         "value":"Willow"
+      },{
+         "variable":"BilberryBush",
+         "value":"Bilberry Bush"
+      },{
+         "variable":"RaspberryBush",
+         "value":"Raspberry Bush"
+      },{
+         "variable":"WaterReed",
+         "value":"Common Reed"
+      },
+      {
+         "variable":"ItemName",
+         "value":"Item Name"
+      },
+      {
+         "variable":"SaleValue",
+         "value":"Sale Value"
+      },
+      {
+         "variable":"BuyValue",
+         "value":"Buy Value"
+      }
+      ,
+      {
+         "variable":"You",
+         "value":"You"
+      },
+      {
+         "variable":"Trader",
+         "value":"Merchant"
+      },
+      {
+         "variable":"Quantity",
+         "value":"Quantity"
+      },
+      {
+         "variable":"Confirm",
+         "value":"Confirm"
+      },
+      {
+         "variable":"Cancel",
+         "value":"Cancel"
+      },
+      {
+         "variable":"BaseConfirmInfo",
+         "value":"Are you sure that you want to"
+      },
+      {
+         "variable":"BuildDeleteInfo",
+         "value":"delete this building"
+      },
+      {
+         "variable":"FarmDeleteInfo",
+         "value":"delete this farm"
+      },
+      {
+         "variable":"ChangeBuildingPurpose",
+         "value":"change this building's purpose to <b>{0}</b>?"
+      },
+      {
+         "variable":"Eating",
+         "value":"Eating"
+      },
+      {
+         "variable":"Sleeping",
+         "value":"Sleeping"
+      },
+      {
+         "variable":"CurrentTask",
+         "value":"Current Task"
+      },
+      {
+         "variable":"WelcomeText",
+         "value":"Welcome to Dagrau'r Helygen!"
+      },
+      {
+         "variable":"WelcomeBody",
+         "value":"Following the raising of your home village by the Legio IX Hispana, you flee into the surrounding countryside in search of a haven to sustain you. After days of surviving on berries and scavanged meat, you find a clearing to begin your new settlement.\n\nIn order to survive you must take advantage of the local resources and create a thriving settlement. First and foremost you will need a place to sleep, and a sustainable food source. \n\n Good Luck!"
+      },
+      {
+         "variable":"EndGameText",
+         "value":"Game Over!"
+      },
+      {
+         "variable":"EndGameBody",
+         "value":"The game has ended as {0}. Thank you for playing."
+      },
+      {
+         "variable":"TaxationLimitReached",
+         "value":"you have reached the taxation backlog limit. Next time make sure you pay your taxes on time"
+      },
+      {
+         "variable":"NoRemainingPawns",
+         "value":"you have no remaining villagers. Next time make sure their needs are fulfilled"
+      },
+      {
+         "variable":"EndGameText",
+         "value":"The game has ended as {a}. Thank you for playing."
+      },{
+         "variable":"NewVillagerConfirmInfo",
+         "value":"Someone has wandered upon your village seeking shelter from the harsh weather. Do you wish for them to join the village?"
+      },{
+         "variable":"PauseGame",
+         "value":"Pause Game"
+      },{
+         "variable":"GameSpeedIncrease",
+         "value":"Increase Game Speed"
+      },{
+         "variable":"GameSpeedDecrease",
+         "value":"Decrease Game Speed"
+      },{
+         "variable":"OpenIGM",
+         "value":"Open Menu"
+      },{
+         "variable":"HideRoofs",
+         "value":"Show/Hide Roofs"
+      },{
+         "variable":"NoPawnsAvailableMessage",
+         "value":"There Are No Villagers Available."
+      },{
+         "variable":"NoPawnsAssignedMessage",
+         "value":"No Villagers Have Been Assigned."
+      },{
+         "variable":"AvailablePawns",
+         "value":"Available Villagers"
+      },
+      {
+         "variable":"AssignedPawns",
+         "value":"Assigned Villagers"
+      },{
+         "variable":"CurrentFuncHandler",
+         "value":"Current Employer"
+      },{
+         "variable":"BedLocation",
+         "value":"Bed Location"
+      },{
+         "variable":"NoCurrentTask",
+         "value":"No Current Task"
+      },{
+         "variable":"PawnUnableToFindFood",
+         "value":"Villager Unable To Find Food."
+      },{
+         "variable":"PawnUnableToFindSleepingSpot",
+         "value":"Villager Unable To Find Sleeping Spot."
+      },{
+         "variable":"NoWarningLogItems",
+         "value":"No Current Warnings."
+      },{
+         "variable":"NewVillagerJoinsOccurred",
+         "value":"A New Villager Has Arrived."
+      },{
+         "variable":"TraderEntryOccurred",
+         "value":"A Trader Is Visiting The Village."
+      },{
+         "variable":"Summer",
+         "value":"Summer"
+      },{
+         "variable":"Winter",
+         "value":"Winter"
+      },{
+         "variable":"Autumn",
+         "value":"Autumn"
+      },{
+         "variable":"Spring",
+         "value":"Spring"
+      },{
+         "variable":"Year",
+         "value":"Year"
+      },{
+         "variable":"YearRound",
+         "value":"Year-Round"
+      },{
+         "variable":"DeleteSelectedBuild",
+         "value":"Delete Build Template"
+      },{
+         "variable":"ExpandLog",
+         "value":"Expand Warning Log"
+      },{
+         "variable":"ScreenPan",
+         "value":"Screen Pan"
+      },{
+         "variable":"TotalWorkers",
+         "value":"Total Villagers"
+      },{
+         "variable":"LackingResourcesForBuild",
+         "value":"You Lack The Required Resources."
+      },{
+         "variable":"PressToCancel",
+         "value":"Right Click To Cancel."
+      },{
+         "variable":"ClickToSet",
+         "value":"Click To Set."
+      },
+      {
+         "variable":"PanSpeed",
+         "value":"Pan Speed"
+      },
+      {
+         "variable":"ScrollSpeed",
+         "value":"Scroll Speed"
+      },
+      {
+         "variable":"BuildingIcons",
+         "value":"Building Icons"
+      },
+      {
+         "variable":"MaxCreations",
+         "value":"Max. Creations"
+      },
+      {
+         "variable":"MaxCrops",
+         "value":"Max. Crops"
+      },
+      {
+         "variable":"GameCreditsText",
+         "value":"Created by Llwyd Thomas. \n\n Supervised by Dr Dominik D. Freydenberger. \n\n Icons created by Delapouite, sbed, Lorc, Skoll, Guard13007, DarkZaitzev and various artists. Available on \"https://game-icons.net\"."
+      },
+      {
+         "variable":"CraftingActionText",
+         "value":"Crafting <b>{0}</b>"
+      },
+      {
+         "variable":"EatingActionText",
+         "value":"Eating <b>{0}</b>"
+      },
+      {
+         "variable":"FishingActionText",
+         "value":"Catching <b>{0}</b>"
+      },
+      {
+         "variable":"FloraCreationActionText",
+         "value":"Planting <b>{0}</b>"
+      },
+      {
+         "variable":"FloraDestructionActionText",
+         "value":"Cutting <b>{0}</b>"
+      },
+      {
+         "variable":"MiningActionText",
+         "value":"Mining For <b>{0}</b>"
+      },
+      {
+         "variable":"SleepingActionText",
+         "value":"Sleeping"
+      },
+      {
+         "variable":"TransferInventoryActionText",
+         "value":"Transporting <b>{0}</b>"
+      },
+      {
+         "variable":"AnimalSlayActionText",
+         "value":"Slaying <b>{0}</b>"
+      },
+      {
+         "variable":"PawnHasDied",
+         "value":"<b>{0}</b> has died due to {1}."
+      },
+      {
+         "variable":"OldAge",
+         "value":"Old Age"
+      },
+      {
+         "variable":"Starvation",
+         "value":"Starvation"
+      },
+      {
+         "variable":"SleepDeprivation",
+         "value":"Lack of Sleep"
+      },
+      {
+         "variable":"BuildingIcons",
+         "value":"Purpose Icons"
+      },
+      {
+         "variable":"AmendFarmOutput",
+         "value":"change this farm's crop from <b>{0}</b> to <b>{1}</b>?"
+      },
+      {
+         "variable":"DeleteResource",
+         "value":"delete <b>{0} {1}</b>?"
+      },
+      {
+         "variable":"BuildingsExplanation",
+         "value":"Buildings are paramount in keeping your villagers alive and require specific resources to be built. Huts are used for a variety of purposes such as woodcutting and storage, which can be set within the building dialogue. Other buildings such as fishing piers are more specific and can only be assigned a single purpose. The resources and options that are available to a building are dependent on its tier."
+      },
+      {
+         "variable":"TradingExplanation",
+         "value":"Trading allows for the gathering of useful resources and necessities through bartering. Some resources can only be obtained through trading and thus specialising in the production of specific resources is vital. Once a month, a tax is required to be paid which is dependent on the wealth and total number of buildings within the village. Unpaid taxes will accumulate and if the value grows too large, the game will end; a warning is displayed when this limit is close to being met."
+      },
+      {
+         "variable":"CraftingExplanation",
+         "value":"Buildings with the crafting prupose are able to convert some resources into different resources. These buildings have crafting queues which dictate what the building produces. When appending crafting orders to the queue, you can set the desired recipe and the quantity required; the quantity can be set to -1 in order to repeatedly produce the same item."
+      },
+      {
+         "variable":"FarmingExplanation",
+         "value":"Farms allow for the production of food stuffs through the planting of seeds obtained through trading. Each plant species can only grow during certain seasons and results in unique resources. Information pertaining to these species can be found in the flora section of the help menu."
+      },
+      {
+         "variable":"VillagersExplanation",
+         "value":"Villagers receive tasks from the building they are assigned to and generate tasks based on their personal needs. If a villager is not assigned to a building or has not received a task for some time, they will attempt to complete general tasks such as those created through the commands menu. Each villager prioritises tasks based on their respective urgency and thus performs tasks such as eating and sleeping before any other task. When completing tasks, villagers are only able to access resources stored within storage buildings and their own inventories. The game will come to an end in the event that all villagers die."
+      },{
+         "variable":"FellTrees",
+         "value":"Fell Trees"
+      },{
+         "variable":"KillAnimals",
+         "value":"Slay Animals"
+      },{
+         "variable":"SelectFarm",
+         "value":"Select Farm"
+      },{
+         "variable":"CutPlants",
+         "value":"Cut Plants"
+      },{
+         "variable":"WorkingInfo",
+         "value":"Work Info"
+      },{
+         "variable":"Inventory",
+         "value":"Inventory"
+      },{
+         "variable":"Workers",
+         "value":"Workers"
+      },
+      {
+         "variable":"CraftingQueue",
+         "value":"Crafting Queue"
+      }
+   ]
+}

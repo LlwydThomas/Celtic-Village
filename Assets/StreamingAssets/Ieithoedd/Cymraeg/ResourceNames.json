@@ -1,0 +1,240 @@
+{
+   "dataList":[
+      {
+         "variable":"Wattle&Daub",
+         "value":"Bangorwaith A Dwb"
+      },
+      {
+         "variable":"Water",
+         "value":"Dŵr"
+      },
+      {
+         "variable":"Stone",
+         "value":"Carreg"
+      },
+      {
+         "variable":"Wood",
+         "value":"Boncyff"
+      },
+      {
+         "variable":"Wheat",
+         "value":"Gwenith"
+      },
+      {
+         "variable":"Bread",
+         "value":"Bara"
+      },
+      {
+         "variable":"CookedFish",
+         "value":"Pysgod Coginiedig"
+      },
+      {
+         "variable":"Bilberries",
+         "value":"Llusen"
+      },
+      {
+         "variable":"Clay",
+         "value":"Clai"
+      },
+      {
+         "variable":"Cod",
+         "value":"Penfras"
+      },
+      {
+         "variable":"Salmon",
+         "value":"Eog"
+      },
+      {
+         "variable":"Lamprey",
+         "value":"Lleiprog"
+      },
+      {
+         "variable":"Pike",
+         "value":"Penhwyad"
+      },
+      {
+         "variable":"OakSeed",
+         "value":"Mesen"
+      },
+      {
+         "variable":"BirchSeed",
+         "value":"Hadau Bedw"
+      },
+      {
+         "variable":"Food",
+         "value":"Bwyd"
+      },
+      {
+         "variable":"Material",
+         "value":"Defnyddiau"
+      },
+      {
+         "variable":"Trading",
+         "value":"Masnachol"
+      },
+      {
+         "variable":"Fish",
+         "value":"Psygod"
+      },
+      {
+         "variable":"Berry",
+         "value":"Mwyaren"
+      },
+      {
+         "variable":"Seed",
+         "value":"Hadau"
+      },
+      {
+         "variable":"Art",
+         "value":"Celfydydd"
+      },
+      {
+         "variable":"Tool",
+         "value":"Offeryn"
+      },
+      {
+         "variable":"Crop",
+         "value":"Cynhaeaf"
+      },
+      {
+         "variable":"CookedFood",
+         "value":"Bwyd Coginiedig"
+      },
+      {
+         "variable":"Vendace",
+         "value":"Gwyniad"
+      }
+      
+      ,
+      {
+         "variable":"Carrot",
+         "value":"Moronen"
+      },
+      {
+         "variable":"Leek",
+         "value":"Cenhinen"
+      },
+      {
+         "variable":"Parsnip",
+         "value":"Panases"
+      },
+      {
+         "variable":"Potato",
+         "value":"Taten"
+      },
+      {
+         "variable":"Tomato",
+         "value":"Tomato"
+      },
+      {
+         "variable":"Cow",
+         "value":"Buwch"
+      },
+      {
+         "variable":"Sheep",
+         "value":"Dafad"
+      },
+      {
+         "variable":"Boar",
+         "value":"Baedd"
+      },
+      {
+         "variable":"BoarTusk",
+         "value":"Ysgithr Baedd"
+      },
+      {
+         "variable":"Leather",
+         "value":"Lledr"
+      },
+      {
+         "variable":"Wool",
+         "value":"Gwlân"
+      },
+      {
+         "variable":"BerryPie",
+         "value":"Pei Fwyaren"
+      },
+      {
+         "variable":"FishStew",
+         "value":"Stiw Pysgod"
+      },
+      {
+         "variable":"MeatStew",
+         "value":"Stiw Cig"
+      },
+      {
+         "variable":"SimpleMeal",
+         "value":"Pryd Syml"
+      },
+      {
+         "variable":"VegetableStew",
+         "value":"Stiw Llysiau"
+      },
+      {
+         "variable":"CookedFood",
+         "value":"Bwyd Coginiedig"
+      },
+      {
+         "variable":"Raspberry",
+         "value":"Mafonen"
+      },
+      {
+         "variable":"RawMeat",
+         "value":"Cig Amrwd"
+      }
+      
+      ,
+      {
+         "variable":"Reed",
+         "value":"Corsen"
+      },
+      {
+         "variable":"Bronze",
+         "value":"Efydd"
+      },
+      {
+         "variable":"Tin",
+         "value":"Tun"
+      },
+      {
+         "variable":"Copper",
+         "value":"Copr"
+      },
+      {
+         "variable":"IronOre",
+         "value":"Mwyn Haearn"
+      },
+      {
+         "variable":"Iron",
+         "value":"Haearn"
+      },
+      {
+         "variable":"CarrotSeed",
+         "value":"Hadau Moron"
+      },
+      {
+         "variable":"LeekSeed",
+         "value":"Hadau Cennin"
+      },
+      {
+         "variable":"ParsnipSeed",
+         "value":"Hadau Pannas"
+      },
+      {
+         "variable":"TomatoSeed",
+         "value":"Hadau Tomato"
+      },
+      {
+         "variable":"PotatoSeed",
+         "value":"Hadau Tatws"
+      },
+      {
+         "variable":"WillowSeed",
+         "value":"Hadau Helyg"
+      },
+      {
+         "variable":"WheatSeed",
+         "value":"Hadau Gwenith"
+      }
+   ]
+}

@@ -1,0 +1,653 @@
+{
+   "dataList":[
+      {
+         "variable":"Filename",
+         "value":"hello"
+      },
+      {
+         "variable":"Hut",
+         "value":"Caban"
+      },
+      {
+         "variable":"General",
+         "value":"Cyffredinol"
+      },
+      {
+         "variable":"Video",
+         "value":"Fideo"
+      },
+      {
+         "variable":"Back",
+         "value":"Yn Ôl"
+      },
+      {
+         "variable":"Keyboard",
+         "value":"Bysellfwrdd"
+      },
+      {
+         "variable":"Language",
+         "value":"Iaith"
+      },
+      {
+         "variable":"NewGame",
+         "value":"Gêm Newydd"
+      },
+      {
+         "variable":"LoadGame",
+         "value":"Llwytho Gêm"
+      },
+      {
+         "variable":"Load",
+         "value":"Llwytho Gêm"
+      },
+      {
+         "variable":"Settings",
+         "value":"Gosodiadau"
+      },
+      {
+         "variable":"Quit",
+         "value":"Cau'r Gêm"
+      },
+      {
+         "variable":"SaveGame",
+         "value":"Cadw'r Gêm"
+      },
+      {
+         "variable":"Cottage",
+         "value":"Bwthyn"
+      },
+      {
+         "variable":"Road",
+         "value":"Ffordd"
+      },
+      {
+         "variable":"Housing",
+         "value":"Tai"
+      },
+      {
+         "variable":"Woodcutting",
+         "value":"Torri Coed"
+      },
+      {
+         "variable":"Farming",
+         "value":"Ffermio"
+      },
+      {
+         "variable":"Villagers",
+         "value":"Pentrefwyr"
+      },
+      {
+         "variable":"AnimalHusbandry",
+         "value":"Magu Anifeiliad"
+      },
+      {
+         "variable":"Mining",
+         "value":"Mwyngloddio"
+      },
+      {
+         "variable":"Foraging",
+         "value":"Chwilota"
+      },
+      {
+         "variable":"Storage",
+         "value":"Storio"
+      },
+      {
+         "variable":"Hunting",
+         "value":"Helfa"
+      },
+      {
+         "variable":"Athletics",
+         "value":"Atheltau"
+      },
+      {
+         "variable":"Taming",
+         "value":"Dofi"
+      },
+      {
+         "variable":"NameText",
+         "value":"Enw'r Pentref"
+      },
+      {
+         "variable":"SeedText",
+         "value":"Hedyn Map"
+      },
+      {
+         "variable":"DifficultyText",
+         "value":"Anhawster"
+      },
+      {
+         "variable":"PawnCountText",
+         "value":"Nifer O Bentrefwyr"
+      },
+      {
+         "variable":"Easy",
+         "value":"Hawdd"
+      },
+      {
+         "variable":"Medium",
+         "value":"Normal"
+      },
+      {
+         "variable":"Hard",
+         "value":"Anodd"
+      },
+      {
+         "variable":"SaveLoad",
+         "value":"Cadw/Llwytho"
+      },
+      {
+         "variable":"Options",
+         "value":"Opsiynau"
+      },
+      {
+         "variable":"Growth",
+         "value":"Twf"
+      },
+      {
+         "variable":"OakTree",
+         "value":"Derwen"
+      },
+      {
+         "variable":"BirchTree",
+         "value":"Bedwen"
+      },
+      {
+         "variable":"WillowTree",
+         "value":"Helygen"
+      },
+      {
+         "variable":"ItemName",
+         "value":"Enw'r Eitem"
+      },
+      {
+         "variable":"CostName",
+         "value":"Enw Cost"
+      },
+      {
+         "variable":"SaleValue",
+         "value":"Gwerth Gwerthu"
+      },
+      {
+         "variable":"BuyValue",
+         "value":"Gwerth Prynu"
+      }
+      ,
+      {
+         "variable":"You",
+         "value":"Chi"
+      },
+      {
+         "variable":"Trader",
+         "value":"Masnachwr"
+      },
+      {
+         "variable":"Quantity",
+         "value":"Nifer"
+      },
+      {
+         "variable":"Confirm",
+         "value":"Cadarnhau"
+      },
+      {
+         "variable":"Cancel",
+         "value":"Canslo"
+      },
+      {
+         "variable":"Continue",
+         "value":"Parhau"
+      },
+      {
+         "variable":"Controls",
+         "value":"Rheolyddion"
+      },
+      {
+         "variable":"Flora",
+         "value":"Fflora"
+      },
+      {
+         "variable":"Tutorial",
+         "value":"Tiwtorial"
+      },
+      {
+         "variable":"BaseConfirmInfo",
+         "value":"Ydych chi'n siŵr eich bod chi am"
+      },
+      {
+         "variable":"BuildDeleteInfo",
+         "value":"ddileu'r adeilad hwn?"
+      },
+      {
+         "variable":"FarmDeleteInfo",
+         "value":"ddileu'r fferm hwn?"
+      },
+      {
+         "variable":"ChangeBuildingPurpose",
+         "value":"newid pwrpas yr adeilad hwn i <b>{0}</b>?"
+      },
+      {
+         "variable":"Purpose",
+         "value":"Pwrpas"
+      },
+      {
+         "variable":"Eating",
+         "value":"Bwyta"
+      },
+      {
+         "variable":"Sleeping",
+         "value":"Cysgu"
+      },
+      {
+         "variable":"Crafting",
+         "value":"Crefftio"
+      },
+      {
+         "variable":"CraftingQueue",
+         "value":"Rhes Grefftio"
+      },
+      {
+         "variable":"CurrentTask",
+         "value":"Tasg Gyfredol"
+      },
+      {
+         "variable":"WelcomeText",
+         "value":"Croeso i Dagrau'r Helygen!"
+      },
+      {
+         "variable":"WelcomeBody",
+         "value":"Yn dilyn dinistrio'ch pentref chi gan y Legio IX Hispana, rydych chi yn ffoi i'r cefn gwlad cwmpasol i chwilio am loches ddiogel. Ar ôl dyddiau o oroesi ar aeron a chig, dych chi'n dod o hyd i lanerch i'w setlo.\n\nEr mwyn goroesi, bydd rhaid i chi fanteisio ar yr adnoddau lleol, a chreu setliad llwyddiannus. Yn gyntaf peth bydd angen lle i orffwys arnoch, yn ogystal â ffynhonnell fwyd gynaliadwy. \n\n Pob Hwyl i Chi!"
+      },
+      {
+         "variable":"EndGameText",
+         "value":"Gêm Drosodd!"
+      },
+      {
+         "variable":"EndGameBody",
+         "value":"Mae'r gêm wedi gorffen {0}. Diolch yn fawr am chwarae."
+      },
+      {
+         "variable":"TaxationLimitReached",
+         "value":"gan eich bod chi wedi cyrraedd terfyn ôl-groniad trethiant. Y tro nesaf, sicrhewch eich bod chi'n talu'ch trethi ar amser"
+      },
+      {
+         "variable":"NoRemainingPawns",
+         "value":"gan nad oes gyda chi bentrefwyr ar ôl. Y tro nesaf, sicrhewch fod eu hanghenion yn cael eu diwallu"
+      },{
+         "variable":"CropFailureMessage",
+         "value":"CropFailure!"
+      },{
+         "variable":"NewVillagerConfirmInfo",
+         "value":"Mae rhywun wedi crwydro i'r pentref yn chwilio am gysgod rhag y tywyll. A ydych chi am iddyn nhw ymuno â'r pentref?"
+      },{
+         "variable":"PauseGame",
+         "value":"Oedi'r Gêm"
+      },{
+         "variable":"GameSpeedIncrease",
+         "value":"Cynyddu Cyflymder Gêm"
+      },{
+         "variable":"GameSpeedDecrease",
+         "value":"Gostwng Cyflymder Gêm"
+      },{
+         "variable":"HideRoofs",
+         "value":"Dangos/Cuddio Toeau"
+      },{
+         "variable":"OpenIGM",
+         "value":"Agor Y Ddewislen"
+      },{
+         "variable":"NoPawnsAvailableMessage",
+         "value":"Dim Pentrefwyr Ar Gael."
+      },{
+         "variable":"NoPawnsAssignedMessage",
+         "value":"Dim Pentrefwyr Wedi'i Neilltuo."
+      },{
+         "variable":"CurrentFuncHandler",
+         "value":"Cyflogwr Cyfredol"
+      },{
+         "variable":"BedLocation",
+         "value":"Lle Cysgu"
+      },{
+         "variable":"NoCurrentTask",
+         "value":"Dim Tasg Gyfredol"
+      },{
+         "variable":"PawnUnableToFindSleepingSpot",
+         "value":"Ni All Pentrefwr Ddod O Hyd I Le Cysgu."
+      },{
+         "variable":"PawnUnableToFindFood",
+         "value":"Ni All Pentrefwr Ddod O Hyd I Fwyd."
+      },{
+         "variable":"NoWarningLogItems",
+         "value":"Dim Rhybuddion Cyfredol."
+      },{
+         "variable":"NewVillagerJoinsOccurred",
+         "value":"Mae Pentrefwr Newydd Wedi Cyrraedd."
+      },{
+         "variable":"TraderEntryOccurred",
+         "value":"Mae Masnachwr Yn Ymweld Â'r Pentref."
+      },{
+         "variable":"BilberryBush",
+         "value":"Coeden Lus"
+      },{
+         "variable":"RaspberryBush",
+         "value":"Coeden Fafon"
+      },{
+         "variable":"WaterReed",
+         "value":"Corsen Cyrs"
+      },{
+         "variable":"Summer",
+         "value":"Haf"
+      },{
+         "variable":"Winter",
+         "value":"Gaeaf"
+      },{
+         "variable":"Autumn",
+         "value":"Hydref"
+      },{
+         "variable":"Spring",
+         "value":"Gwanwyn"
+      },{
+         "variable":"Year",
+         "value":"Blwyddyn"
+      },{
+         "variable":"YearRound",
+         "value":"Trwy'r Flwyddyn"
+      },{
+         "variable":"Days",
+         "value":"Dydd"
+      },{
+         "variable":"Name",
+         "value":"Enw"
+      },{
+         "variable":"Age",
+         "value":"Oed"
+      },{
+         "variable":"Output",
+         "value":"Cynnyrch"
+      },{
+         "variable":"Time",
+         "value":"Amser"
+      },{
+         "variable":"Tree",
+         "value":"Coeden"
+      },{
+         "variable":"Bush",
+         "value":"Llwyn"
+      },{
+         "variable":"Crop",
+         "value":"Cynhaeaf"
+      },{
+         "variable":"Seasons",
+         "value":"Tymhorau"
+      },{
+         "variable":"Health",
+         "value":"Iechyd"
+      },{
+         "variable":"DeleteSelectedBuild",
+         "value":"Dileu Templed Adeilad"
+      },{
+         "variable":"ExpandLog",
+         "value":"Ehangu Negesau Rhybudd"
+      },{
+         "variable":"ScreenPan",
+         "value":"Tremio'r Sgrîn"
+      },{
+         "variable":"Up",
+         "value":"I Fyny"
+      },{
+         "variable":"Down",
+         "value":"I Lawr"
+      },{
+         "variable":"Left",
+         "value":"I'r Chwith"
+      },{
+         "variable":"Right",
+         "value":"I'r Dde"
+      },{
+         "variable":"AvailablePawns",
+         "value":"Pentrefwyr Sydd Ar Gael"
+      },
+      {
+         "variable":"AssignedPawns",
+         "value":"Pentrewyr Wedi'i Neilltuo"
+      },{
+         "variable":"LackingResourcesForBuild",
+         "value":"Nid Oes Gyda Chi Yr Adnoddau Gofynnol."
+      },{
+         "variable":"CountLabel",
+         "value":"Swm (Pwysau)"
+      },{
+         "variable":"Menu",
+         "value":"Dewislen"
+      },{
+         "variable":"Actions",
+         "value":"Gorchmynion"
+      },{
+         "variable":"Resources",
+         "value":"Adnoddau"
+      },{
+         "variable":"PressToCancel",
+         "value":"De-Gliciwch I Ganslo."
+      },{
+         "variable":"ClickToSet",
+         "value":"Chwith-Cliciwch I Osod."
+      },{
+         "variable":"N/A",
+         "value":"Amh."
+      },
+      {
+         "variable":"Save",
+         "value":"Cadw"
+      },
+      {
+         "variable":"Delete",
+         "value":"Dileu"
+      },
+      {
+         "variable":"Fullscreen",
+         "value":"Sgrîn Lawn"
+      },
+      {
+         "variable":"PanSpeed",
+         "value":"Cyflymder Tremio"
+      },
+      {
+         "variable":"ScrollSpeed",
+         "value":"Cyflymder Rholio"
+      },
+      {
+         "variable":"BuildingIcons",
+         "value":"Eiconau Adeilad"
+      },
+      {
+         "variable":"Resolution",
+         "value":"Cydraniad Dangosydd"
+      },
+      {
+         "variable":"Autosave",
+         "value":"Awtogadw"
+      },
+      {
+         "variable":"Resume",
+         "value":"Ailddechrau"
+      },
+      {
+         "variable":"Buildings",
+         "value":"Adeiladau"
+      },
+      {
+         "variable":"BuildingsExplanation",
+         "value":"Mae adeiladau'n allweddol i gadw'ch pentrefwyr chi'n fyw, ac angen adnoddau i'w hadeiladu. Mae cytiau yn cael ei ddefnyddio at amryw ddibenion fel torri coed a storio, sy'n gallu cael ei osod yn y ddeialog adeilad. Mae adeiladau arall fel pysgodfeydd yn fwy penodol, ac fe'u defnyddir at un diben. Mae'r adnoddau a dewisiadau sydd ar gael i adeilad yn dibynnu ar ei dosbarth."
+      },
+      {
+         "variable":"TradingExplanation",
+         "value":"Mae masnachu'n galluogi casglu ar adnoddau defnyddiol ac angenrheidiau trwy cyfnewid. Dim ond trwy fasnachu gellir cael rhai adnoddau, felly mae arbenigo mewn cynhyrchu adnoddau penodol yn hanfodol. Unwaith y mis, mae angen talu treth sy'n ddibynnol ar y cyfoeth a nifer yr adeiladau o fewn y pentre. Trethi di-dâl fydd yn cronni, ac os bydd y gwerth hwn yn tyfu'n rhy fawr, mi fydd y gêm yn dod i ben; dangosir neges pan fod y terfyn hwn yn agos at gael ei gyrraedd."
+      },
+      {
+         "variable":"CraftingExplanation",
+         "value":"Mae adeiladau gyda phwrpas crefftio'n gallu trawsnewid rhai adnoddau yn adnoddau wahanol. Mae gyda'r adeiladau hyn giwiau sy'n pennu'r hyn maen nhw'n ei gynyrchu. Wrth ychwanegu gorchymyn crefftio newydd, mi allwch ddewis pa rysáit a'r maint sydd ei hangen. Gellir gosod y nifer i '-1' er mrwyn cynhyrchu'r un rysáit dro ar ôl tro."
+      },
+      {
+         "variable":"FarmingExplanation",
+         "value":"Mae ffermydd yn caniatáu ar gyfer cynhyrchu bwydydd trwy blannu hadau geir trwy fansnachu. Dim ond yn ystod tymhorau penodol gall pob rhywogaeth o blanhigion dyfu ac mae'n cynhyrchu adnoddau unigryw. Ceir gwybodaeth am y rhywogaethau hyn yn yr adran fflora ar y ddewislen gymorth."
+      },
+      {
+         "variable":"VillagersExplanation",
+         "value":"Mae pentrefwyr yn derbyn tasgau oddi wrth yr adeilad maen nhw wedi'u neilltuo iddo, ac yn cynhyrchu tasgau seiliedig ar eu hangenion personol. Os nad yw pentrefwr wedi'i neilltuo i adeilad neu os nad yw wedi derbyn tasg ers ychydig o amser, bydd yn trio cyflawni tasgau cyffredinol fel y rhai grëwyd trwy'r ddewislen gorchmynion. Mae pob pentrefwr yn blaenoriaethu tasgau ar sail eu brys priodol ac felly yn cyflwani tasgau fel bwyta a chysgu cyn unrhyw tasg arall. Wrth gwblhau tasgau, dim ond adnoddau sydd wedi'u storio o fewn adeiladau storio a'u rhestrau eiddo eu hunan gall pentrefwyr eu defnyddio. Fe fydd y gêm yn dod i ben os bydd yr holl bentrefwyr yn marw."
+      },
+      {
+         "variable":"Weight",
+         "value":"Pwys"
+      },
+      {
+         "variable":"Value",
+         "value":"Gwerth"
+      },
+      {
+         "variable":"Hunger",
+         "value":"Gwerth Bwyd"
+      },
+      {
+         "variable":"MaxCreations",
+         "value":"Uchafswm Planhigion"
+      },
+      {
+         "variable":"MaxCrops",
+         "value":"Uchafswm Cnydau"
+      },
+      {
+         "variable":"Hair",
+         "value":"Gwallt"
+      },
+      {
+         "variable":"Shirt",
+         "value":"Crys"
+      },
+      {
+         "variable":"Shorts",
+         "value":"Siorts"
+      },
+      {
+         "variable":"Skin",
+         "value":"Croen"
+      },
+      {
+         "variable":"OutputResources",
+         "value":"Cynhyrchion"
+      },
+      {
+         "variable":"InputResources",
+         "value":"Mewnbynnau"
+      },
+      {
+         "variable":"AmountText",
+         "value":"Nifer(Pwys)"
+      },
+      {
+         "variable":"InputSaveName",
+         "value":"Mewnbynnwch Enw'r Arbediad"
+      },
+      {
+         "variable":"GameCreditsText",
+         "value":"Creuwyd gan Llwyd Thomas. \n\n Goruchwyliwyd gan Dr Dominik D. Freydenberger. \n\n Eiconau a greuwyd gan Delapouite, sbed, Lorc, Skoll, Guard13007, DarkZaitzev ac artistiaid amrywiol sydd ar gael ar \"https://game-icons.net\"."
+      },
+      {
+         "variable":"Any",
+         "value":"Unrhyw"
+      },
+      {
+         "variable":"CraftingActionText",
+         "value":"Yn Creu <b>{0}</b>"
+      },
+      {
+         "variable":"EatingActionText",
+         "value":"Yn Bwyta <b>{0}</b>"
+      },
+      {
+         "variable":"FishingActionText",
+         "value":"Yn Dal <b>{0}</b>"
+      },
+      {
+         "variable":"FloraCreationActionText",
+         "value":"Yn Plannu <b>{0}</b>"
+      },
+      {
+         "variable":"FloraDestructionActionText",
+         "value":"Yn Torri <b>{0}</b>"
+      },
+      {
+         "variable":"MiningActionText",
+         "value":"Yn Cloddio Am <b>{0}</b>"
+      },
+      {
+         "variable":"SleepingActionText",
+         "value":"Yn Cysgu"
+      },
+      {
+         "variable":"TransferInventoryActionText",
+         "value":"Yn Symud <b>{0}</b>"
+      },
+      {
+         "variable":"AnimalSlayActionText",
+         "value":"Yn Lladd <b>{0}</b>"
+      },
+      {
+         "variable":"PawnHasDied",
+         "value":"Bu farw <b>{0}</b> oherwydd {1}."
+      },
+      {
+         "variable":"OldAge",
+         "value":"Henaint"
+      },
+      {
+         "variable":"Starvation",
+         "value":"Newyn"
+      },
+      {
+         "variable":"SleepDeprivation",
+         "value":"Diffyg Cwsg"
+      },
+      {
+         "variable":"GameHasEnded",
+         "value":"Mae'r gêm wedi gorffen gan {0}"
+      },
+      {
+         "variable":"NoRemainingPawns",
+         "value":"nad oes gyda chi bentrefwyr ar ôl."
+      },
+      {
+         "variable":"BuildingIcons",
+         "value":"Eiconau Pwrpas"
+      },
+      {
+         "variable":"AmendFarmOutput",
+         "value":"newid cnwd y fferm hon o <b>{0}</b> i <b>{1}</b>?"
+      },
+      {
+         "variable":"DeleteResource",
+         "value":"ddileu <b>{0} {1}</b>?"
+      },{
+         "variable":"TotalWorkers",
+         "value":"Cyfanswm Gweithwyr"
+      },{
+         "variable":"FellTrees",
+         "value":"Cymynu Coed"
+      },{
+         "variable":"KillAnimals",
+         "value":"Lladd Anifeiliad"
+      },{
+         "variable":"SelectFarm",
+         "value":"Dewis Fferm"
+      },{
+         "variable":"CutPlants",
+         "value":"Torri Planhigion"
+      },{
+         "variable":"WorkingInfo",
+         "value":"Gwybodaeth Gwaith"
+      },{
+         "variable":"Inventory",
+         "value":"Rhestr Eiddo"
+      },{
+         "variable":"Workers",
+         "value":"Gweithwyr"
+      }
+   ]
+}

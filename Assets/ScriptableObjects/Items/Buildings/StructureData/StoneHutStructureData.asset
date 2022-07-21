@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59b6781fe5a80d40898e120edcd6527, type: 3}
+  m_Name: StoneHutStructureData
+  m_EditorClassIdentifier: 
+  ID: 3
+  structureName: StoneHut
+  structureDescription: A small hut.
+  ghostPrefab: {fileID: 383752563584175513, guid: 5baedf7ca7aed724e821c76b0bc622ee,
+    type: 3}
+  loadingPrefab: {fileID: 1168450419687055117, guid: 5f1d25cc8ffcb2e48903d47037c8e536,
+    type: 3}
+  completedStructure: {fileID: 7065488471271754532, guid: 3fb3634649897c64fb9729a62ec4acf4,
+    type: 3}
+  requiredRes:
+  - resource: {fileID: 11400000, guid: 9ff7c6926b597fa4baefc18d27b2f37e, type: 2}
+    count: 200
+  - resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+    count: 200
+  - resource: {fileID: 11400000, guid: d429f9c31628f29458f0e4f6ffbebad7, type: 2}
+    count: 200
+  - resource: {fileID: 11400000, guid: 24c9b9ac75a79694c81367f2bd1263e0, type: 2}
+    count: 50
+  possiblePurposes:
+  - {fileID: 11400000, guid: 84280c25ca42e5a47af0ab414c41199d, type: 2}
+  - {fileID: 11400000, guid: 8040db71cd562054d9c239458634ce41, type: 2}
+  - {fileID: 11400000, guid: a91685e32300b4a4ea3305322f01bbc3, type: 2}
+  - {fileID: 11400000, guid: 5e6be3d36be7db6489f2aa3c6010a3ff, type: 2}
+  - {fileID: 11400000, guid: 55512c5f45915a1488c4a6b035ebeb15, type: 2}
+  - {fileID: 11400000, guid: 6b51861b124e09041bc8d86c0a2133c5, type: 2}
+  qualityTier: 2
+  requiredTiles: []
+  offset: {x: 0.5, y: 0.5}
+  maxWorkers: 3
+  maxCreations: 5
+  maxCropCount: 50
+  radiusMultiplier: 1.5
+  buildingSprite: {fileID: 21300000, guid: 68d60c50d9e280d40bf1cb02cc2b2b85, type: 3}
+  buildingIcon: {fileID: 21300000, guid: f3991acf56a186949b1c0d97de1044f9, type: 3}
+  inventoryStorageMax: 1000
+  buildingWeight: 3
+  maxResourceExtraction: -1

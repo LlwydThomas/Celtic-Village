@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d76fd6157287149b0a94dac32c2b49, type: 3}
+  m_Name: FloraDataPotato
+  m_EditorClassIdentifier: 
+  uniqueType: Potato
+  ID: 6
+  destructionSpeedFactor: 1
+  outputResources:
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 48760eb5127c618498d196c24529cb83, type: 2}
+      count: 2
+    probability: 1
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 4da857349f694514480e6c1a1b4e6272, type: 2}
+      count: 2
+    probability: 0.85
+  requiredToGrow:
+  - resource: {fileID: 11400000, guid: 4da857349f694514480e6c1a1b4e6272, type: 2}
+    count: 1
+  growable: 1
+  prefabOffset: {x: 0, y: 0}
+  icon: {fileID: 21300000, guid: 91a9cb042c02ccb418e0cfe626503962, type: 3}
+  seedlingPrefab: {fileID: 1511123826957672589, guid: fea4129483a625f4283e6342d3d18178,
+    type: 3}
+  growingPrefab: {fileID: 1511123826957672589, guid: fea4129483a625f4283e6342d3d18178,
+    type: 3}
+  maturePrefab: {fileID: 1511123826957672589, guid: 39c2e93ef273ad7499b6eccc4c9aa402,
+    type: 3}
+  allowedTiles:
+  - {fileID: 11400000, guid: 1761ecddab464734b9b2dada44f454a0, type: 2}
+  - {fileID: 11400000, guid: 8b0d17a9caabdc44b8d5ad52be575941, type: 2}
+  spreadChance: 0
+  spreadCount: 0000000000000000
+  growthSeasons: 00010101
+  baseYield: 2
+  size: {x: 1, y: 1}
+  daysToMature: 5
+  floraCategory: 3
+  qualityTier: 1

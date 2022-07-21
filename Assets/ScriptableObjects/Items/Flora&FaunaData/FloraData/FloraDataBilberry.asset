@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d76fd6157287149b0a94dac32c2b49, type: 3}
+  m_Name: FloraDataBilberry
+  m_EditorClassIdentifier: 
+  uniqueType: BilberryBush
+  ID: 3
+  destructionSpeedFactor: 0.1
+  outputResources:
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 256bacbbb5c4bef4b9cd065fb7957013, type: 2}
+      count: 3
+    probability: 0.85
+  requiredToGrow:
+  - resource: {fileID: 11400000, guid: 256bacbbb5c4bef4b9cd065fb7957013, type: 2}
+    count: 1
+  growable: 1
+  prefabOffset: {x: 0, y: -0.5}
+  icon: {fileID: 21300000, guid: 90f712641596fe842a2da8a3e4c9d80b, type: 3}
+  seedlingPrefab: {fileID: 3357535431047776573, guid: c98b6d002fc4f8145a13399e5f9116c1,
+    type: 3}
+  growingPrefab: {fileID: 3357535431047776573, guid: c98b6d002fc4f8145a13399e5f9116c1,
+    type: 3}
+  maturePrefab: {fileID: 3357535431047776573, guid: c98b6d002fc4f8145a13399e5f9116c1,
+    type: 3}
+  allowedTiles:
+  - {fileID: 11400000, guid: 8b0d17a9caabdc44b8d5ad52be575941, type: 2}
+  - {fileID: 11400000, guid: 1761ecddab464734b9b2dada44f454a0, type: 2}
+  spreadChance: 0.05
+  growthSeasons: 01010001
+  baseYield: 6
+  size: {x: 1, y: 1}
+  daysToMature: 4
+  floraCategory: 2
+  qualityTier: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2011b9dbdb79a6458d732fe3dda65f7, type: 3}
+  m_Name: WinterLoverTraitData 1
+  m_EditorClassIdentifier: 
+  id: 2
+  uniqueName: WinterLover
+  ExperienceModifiers: []
+  moodModifiers:
+  - requiredEvent: winter
+    modifierValue: 20
+  - requiredEvent: summer
+    modifierValue: -5
+  - requiredEvent: autumn
+    modifierValue: -5
+  - requiredEvent: spring
+    modifierValue: -5
+  incompatibleTraits:
+  - {fileID: 11400000, guid: e3a9b6ff020a3f84a999ec4496ef7ca1, type: 2}

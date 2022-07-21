@@ -1,0 +1,2425 @@
+fileFormatVersion: 2
+guid: ef8df277ef744614fbf626872056a7c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8210091325443630964
+    second: watertileset3qb2tg0_0
+  - first:
+      213: 26813384706400563
+    second: watertileset3qb2tg0_1
+  - first:
+      213: 3601996677834359161
+    second: watertileset3qb2tg0_2
+  - first:
+      213: 353543022886626558
+    second: watertileset3qb2tg0_3
+  - first:
+      213: 5475839841203294362
+    second: watertileset3qb2tg0_4
+  - first:
+      213: -6786589126538223368
+    second: watertileset3qb2tg0_5
+  - first:
+      213: -5509320427736010056
+    second: watertileset3qb2tg0_6
+  - first:
+      213: 8164028172930170566
+    second: watertileset3qb2tg0_7
+  - first:
+      213: 4928055523483633153
+    second: watertileset3qb2tg0_8
+  - first:
+      213: 6788957715360661659
+    second: watertileset3qb2tg0_9
+  - first:
+      213: -7876378887821801436
+    second: watertileset3qb2tg0_10
+  - first:
+      213: 7398804445949427931
+    second: watertileset3qb2tg0_11
+  - first:
+      213: -7557688257922056636
+    second: watertileset3qb2tg0_12
+  - first:
+      213: -1673227172339102742
+    second: watertileset3qb2tg0_13
+  - first:
+      213: -5167817435711790577
+    second: watertileset3qb2tg0_14
+  - first:
+      213: 6250272842767583686
+    second: watertileset3qb2tg0_15
+  - first:
+      213: 2946883977266213728
+    second: watertileset3qb2tg0_16
+  - first:
+      213: -3577481357883172929
+    second: watertileset3qb2tg0_17
+  - first:
+      213: 215489960512711786
+    second: watertileset3qb2tg0_18
+  - first:
+      213: 9118487026299321830
+    second: watertileset3qb2tg0_19
+  - first:
+      213: 4888411326697492251
+    second: watertileset3qb2tg0_20
+  - first:
+      213: 3723110089799242299
+    second: watertileset3qb2tg0_21
+  - first:
+      213: 9086083374517204862
+    second: watertileset3qb2tg0_22
+  - first:
+      213: 1329094655898939265
+    second: watertileset3qb2tg0_23
+  - first:
+      213: -6858100870241005425
+    second: watertileset3qb2tg0_24
+  - first:
+      213: 7729225640168112418
+    second: watertileset3qb2tg0_25
+  - first:
+      213: 5346926433491172514
+    second: watertileset3qb2tg0_0
+  - first:
+      213: -1354897401390915201
+    second: watertileset3qb2tg0_1
+  - first:
+      213: -3440568629454487282
+    second: watertileset3qb2tg0_2
+  - first:
+      213: 8773848861184003732
+    second: watertileset3qb2tg0_3
+  - first:
+      213: -7568984775377064249
+    second: watertileset3qb2tg0_4
+  - first:
+      213: 8299953220639701312
+    second: watertileset3qb2tg0_5
+  - first:
+      213: -874601640745255348
+    second: watertileset3qb2tg0_6
+  - first:
+      213: -3352352779409653098
+    second: watertileset3qb2tg0_7
+  - first:
+      213: 4613109480602569265
+    second: watertileset3qb2tg0_8
+  - first:
+      213: -5927739685445581577
+    second: watertileset3qb2tg0_9
+  - first:
+      213: -6307229275313514421
+    second: watertileset3qb2tg0_10
+  - first:
+      213: -7692859003913606587
+    second: watertileset3qb2tg0_11
+  - first:
+      213: -245931177942850744
+    second: watertileset3qb2tg0_12
+  - first:
+      213: -413300034459558650
+    second: watertileset3qb2tg0_13
+  - first:
+      213: -5179221060189370838
+    second: watertileset3qb2tg0_14
+  - first:
+      213: 5480104273467802519
+    second: watertileset3qb2tg0_15
+  - first:
+      213: -6678834447827588840
+    second: watertileset3qb2tg0_16
+  - first:
+      213: 1506154264359345630
+    second: watertileset3qb2tg0_17
+  - first:
+      213: 820154880104135754
+    second: watertileset3qb2tg0_18
+  - first:
+      213: -324290404185795305
+    second: watertileset3qb2tg0_19
+  - first:
+      213: -2696271805498308234
+    second: watertileset3qb2tg0_20
+  - first:
+      213: 5639423547763410900
+    second: watertileset3qb2tg0_21
+  - first:
+      213: 2105464278361424042
+    second: watertileset3qb2tg0_22
+  - first:
+      213: -9049867847472771727
+    second: watertileset3qb2tg0_23
+  - first:
+      213: -6940955146269369332
+    second: watertileset3qb2tg0_24
+  - first:
+      213: 4492485487019798988
+    second: watertileset3qb2tg0_25
+  - first:
+      213: 4194553546968932162
+    second: watertileset3qb2tg0_26
+  - first:
+      213: -4218730694810378148
+    second: watertileset3qb2tg0_27
+  - first:
+      213: 235089858443815993
+    second: watertileset3qb2tg0_28
+  - first:
+      213: -2902719917179287394
+    second: watertileset3qb2tg0_29
+  - first:
+      213: 302852403882770151
+    second: watertileset3qb2tg0_30
+  - first:
+      213: 4612569605664408742
+    second: watertileset3qb2tg0_31
+  - first:
+      213: 1526171233238066836
+    second: watertileset3qb2tg0_32
+  - first:
+      213: 6101162913130792229
+    second: watertileset3qb2tg0_33
+  - first:
+      213: -5538839056751338813
+    second: watertileset3qb2tg0_34
+  - first:
+      213: 8642426935911625784
+    second: watertileset3qb2tg0_35
+  - first:
+      213: 1603048175649089802
+    second: watertileset3qb2tg0_36
+  - first:
+      213: -627866877829872125
+    second: watertileset3qb2tg0_37
+  - first:
+      213: -62035372975078380
+    second: watertileset3qb2tg0_38
+  - first:
+      213: 8140597176003043806
+    second: watertileset3qb2tg0_39
+  - first:
+      213: -7398587660557042250
+    second: watertileset3qb2tg0_40
+  - first:
+      213: 4276485863125646083
+    second: watertileset3qb2tg0_41
+  - first:
+      213: -2552888191767400758
+    second: watertileset3qb2tg0_42
+  - first:
+      213: 8676650351875265075
+    second: watertileset3qb2tg0_43
+  - first:
+      213: -4996048638472214845
+    second: watertileset3qb2tg0_44
+  - first:
+      213: -1660455310272186223
+    second: watertileset3qb2tg0_45
+  - first:
+      213: -2781226742558687803
+    second: watertileset3qb2tg0_46
+  - first:
+      213: 182783020468508973
+    second: watertileset3qb2tg0_47
+  - first:
+      213: -5872349250059202082
+    second: watertileset3qb2tg0_48
+  - first:
+      213: -3482144365138503036
+    second: watertileset3qb2tg0_49
+  - first:
+      213: 3463550262868818692
+    second: watertileset3qb2tg0_50
+  - first:
+      213: -6924262785665151025
+    second: watertileset3qb2tg0_51
+  - first:
+      213: -6185442814988019416
+    second: watertileset3qb2tg0_52
+  - first:
+      213: -8669415696959693098
+    second: watertileset3qb2tg0_53
+  - first:
+      213: -6262820471568087301
+    second: watertileset3qb2tg0_54
+  - first:
+      213: -514072161609516619
+    second: watertileset3qb2tg0_55
+  - first:
+      213: -1396707706192116443
+    second: watertileset3qb2tg0_56
+  - first:
+      213: 3476241581774602913
+    second: watertileset3qb2tg0_57
+  - first:
+      213: -2358192933475150928
+    second: watertileset3qb2tg0_58
+  - first:
+      213: 3623188824676428759
+    second: watertileset3qb2tg0_59
+  - first:
+      213: -7913140964881334264
+    second: watertileset3qb2tg0_60
+  - first:
+      213: 1761922586613177446
+    second: watertileset3qb2tg0_61
+  - first:
+      213: 4059159957192662603
+    second: watertileset3qb2tg0_62
+  - first:
+      213: -861631570833721428
+    second: watertileset3qb2tg0_63
+  - first:
+      213: -7275040224228792419
+    second: watertileset3qb2tg0_64
+  - first:
+      213: -5277322602643245792
+    second: watertileset3qb2tg0_65
+  - first:
+      213: -5779363474742704814
+    second: watertileset3qb2tg0_66
+  - first:
+      213: 6294800073695265087
+    second: watertileset3qb2tg0_67
+  - first:
+      213: -2310978055025499155
+    second: watertileset3qb2tg0_68
+  - first:
+      213: 3170471053920963429
+    second: watertileset3qb2tg0_69
+  - first:
+      213: 37713465645478644
+    second: watertileset3qb2tg0_70
+  - first:
+      213: 660669645117933223
+    second: watertileset3qb2tg0_71
+  - first:
+      213: 7214106465614813285
+    second: watertileset3qb2tg0_72
+  - first:
+      213: 4880501593368496017
+    second: watertileset3qb2tg0_73
+  - first:
+      213: 9210500807290874899
+    second: watertileset3qb2tg0_74
+  - first:
+      213: 450883842451019511
+    second: watertileset3qb2tg0_75
+  - first:
+      213: -6761603519314508647
+    second: watertileset3qb2tg0_76
+  - first:
+      213: 2333126092236973394
+    second: watertileset3qb2tg0_77
+  - first:
+      213: -8500579467922602
+    second: watertileset3qb2tg0_78
+  - first:
+      213: -6234921252465252197
+    second: watertileset3qb2tg0_79
+  - first:
+      213: -1235373483552912523
+    second: watertileset3qb2tg0_80
+  - first:
+      213: 7377721302043822205
+    second: watertileset3qb2tg0_81
+  - first:
+      213: 2749786230926122502
+    second: watertileset3qb2tg0_82
+  - first:
+      213: -3576260949326961834
+    second: watertileset3qb2tg0_83
+  - first:
+      213: 8277968479203348428
+    second: watertileset3qb2tg0_84
+  - first:
+      213: 8849315399556625824
+    second: watertileset3qb2tg0_85
+  - first:
+      213: -3206877041620581441
+    second: watertileset3qb2tg0_86
+  - first:
+      213: -2030131946047570050
+    second: watertileset3qb2tg0_87
+  - first:
+      213: -8004858424656126309
+    second: watertileset3qb2tg0_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac33641349143a40800000000000000
+      internalID: 8210091325443630964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71aef2fdff623de0800000000000000
+      internalID: 26813384706400563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 299
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0143087f05a040d0800000000000000
+      internalID: 3601996677834359161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e86dbad09f2c970800000000000000
+      internalID: 353543022886626558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6f41f27095f690800000000000000
+      internalID: 5475839841203294362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b698aa7b5f2370800000000000000
+      internalID: -6786589126538223368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb76b017accd3f0800000000000000
+      internalID: -5509320427736010056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928e7d98ec0a71d0800000000000000
+      internalID: 8164028172930170566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a8d4d91ae050040800000000000000
+      internalID: 4928055523483633153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c700a9207cbda0800000000000000
+      internalID: 6788957715360661659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485ef724683878a0800000000000000
+      internalID: -7876378887821801436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a60949e797d3590800000000000000
+      internalID: 7398804445949427931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e58b85e6469cf0800000000000000
+      internalID: -7557688257922056636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d9164fec9a34af0800000000000000
+      internalID: -1673227172339102742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c03ee2e5bf18b0800000000000000
+      internalID: -5167817435711790577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79306284dcd3d0c40800000000000000
+      internalID: 6250272842767583686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8192897a4730053a0800000000000000
+      internalID: 2946883977266213728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1410d25fe6e410800000000000000
+      internalID: -3577481357883172929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cf861a486c16b00800000000000000
+      internalID: 215489960512711786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71510767893ef7bf0800000000000000
+      internalID: 9118487026299321830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794f5f041be49ad0800000000000000
+      internalID: 4888411326697492251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7496676d1434e40800000000000000
+      internalID: 3723110089799242299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0c10f1b9c183d10800000000000000
+      internalID: 9086083374517204862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d08271429686280800000000000000
+      internalID: 1329094655898939265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd1b8b116ccaf90800000000000000
+      internalID: -6858100870241005425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1b96c8fb3885e30800000000000000
+      internalID: 7729225640168112418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f107e2a3c063a30800000000000000
+      internalID: 4194553546968932162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506acce8ce0475c0800000000000000
+      internalID: -4218730694810378148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c27de0bf4334300800000000000000
+      internalID: 235089858443815993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c3165d9777b7d0800000000000000
+      internalID: -2902719917179287394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3ec028a2f33400800000000000000
+      internalID: 302852403882770151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4046f2e93230040800000000000000
+      internalID: 4612569605664408742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496239f86ac0e2510800000000000000
+      internalID: 1526171233238066836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c2f9185faba450800000000000000
+      internalID: 6101162913130792229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad64259371223b0800000000000000
+      internalID: -5538839056751338813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b748328110f770800000000000000
+      internalID: 8642426935911625784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e66b82db2f3610800000000000000
+      internalID: 1603048175649089802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30687b4b66e5947f0800000000000000
+      internalID: -627866877829872125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414cf4e282b932ff0800000000000000
+      internalID: -62035372975078380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a537300639f070800000000000000
+      internalID: 8140597176003043806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdb8ecd8bfe25990800000000000000
+      internalID: -7398587660557042250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b75961c31295b30800000000000000
+      internalID: 4276485863125646083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace2a6227b1529cd0800000000000000
+      internalID: -2552888191767400758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321bcf2687a96870800000000000000
+      internalID: 8676650351875265075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62a47cb387aaab0800000000000000
+      internalID: -4996048638472214845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b0d951b0e4f8e0800000000000000
+      internalID: -1660455310272186223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdf8f163091769d0800000000000000
+      internalID: -2781226742558687803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d299ffd4030698200800000000000000
+      internalID: 182783020468508973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed190395879318ea0800000000000000
+      internalID: -5872349250059202082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9a4b2620fcafc0800000000000000
+      internalID: -3482144365138503036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb1080d90011030800000000000000
+      internalID: 3463550262868818692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc8f8cea318ef90800000000000000
+      internalID: -6924262785665151025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829952a1884e82aa0800000000000000
+      internalID: -6185442814988019416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de958c2b5c00b780800000000000000
+      internalID: -8669415696959693098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c32486fdf519a0800000000000000
+      internalID: -6262820471568087301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9f85ab716add8f0800000000000000
+      internalID: -514072161609516619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254e55cdb5ed9ce0800000000000000
+      internalID: -1396707706192116443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a20e1bfc471e3030800000000000000
+      internalID: 3476241581774602913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b390607504064fd0800000000000000
+      internalID: -2358192933475150928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe0012a07284230800000000000000
+      internalID: 3623188824676428759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80008a2d730ee2290800000000000000
+      internalID: -7913140964881334264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd0d8e14b937810800000000000000
+      internalID: 1761922586613177446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e55f68978055830800000000000000
+      internalID: 4059159957192662603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7b135c6aeda04f0800000000000000
+      internalID: -861631570833721428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972a2cf57dd90b90800000000000000
+      internalID: -7275040224228792419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0253f48ad0f23c6b0800000000000000
+      internalID: -5277322602643245792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25508144a839bcfa0800000000000000
+      internalID: -5779363474742704814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3185b4d05f9b5750800000000000000
+      internalID: 6294800073695265087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36b7af3b1cdefd0800000000000000
+      internalID: -2310978055025499155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0e9b20a6cffb20800000000000000
+      internalID: 3170471053920963429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_70
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 75
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f23c0b723cf58000800000000000000
+      internalID: 37713465645478644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a64327ba8b2b2900800000000000000
+      internalID: 660669645117933223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d1d6cb97ad1460800000000000000
+      internalID: 7214106465614813285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197057657560bb340800000000000000
+      internalID: 4880501593368496017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c65065fa542df70800000000000000
+      internalID: 9210500807290874899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69140477cd14600800000000000000
+      internalID: 450883842451019511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9944a377c65f922a0800000000000000
+      internalID: -6761603519314508647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255eaf7c1dde06020800000000000000
+      internalID: 2333126092236973394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fd6c94ccc1eff0800000000000000
+      internalID: -8500579467922602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986648a72c1979a0800000000000000
+      internalID: -6234921252465252197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 43
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b44ebac521bdee0800000000000000
+      internalID: -1235373483552912523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7887247f6ee26660800000000000000
+      internalID: 7377721302043822205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e9c9e0204392620800000000000000
+      internalID: 2749786230926122502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e34b4d919e5ec0800000000000000
+      internalID: -3576260949326961834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfcbc8297041e270800000000000000
+      internalID: 8277968479203348428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a577ff58751fca70800000000000000
+      internalID: 8849315399556625824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb389d74252ee73d0800000000000000
+      internalID: -3206877041620581441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_87
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f79ac40c583d3e0800000000000000
+      internalID: -2030131946047570050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watertileset3qb2tg0_88
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 11
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e1411aca709e090800000000000000
+      internalID: -8004858424656126309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      watertileset3qb2tg0_62: 4059159957192662603
+      watertileset3qb2tg0_9: 6788957715360661659
+      watertileset3qb2tg0_85: 8849315399556625824
+      watertileset3qb2tg0_37: -627866877829872125
+      watertileset3qb2tg0_61: 1761922586613177446
+      watertileset3qb2tg0_76: -6761603519314508647
+      watertileset3qb2tg0_54: -6262820471568087301
+      watertileset3qb2tg0_28: 235089858443815993
+      watertileset3qb2tg0_8: 4928055523483633153
+      watertileset3qb2tg0_27: -4218730694810378148
+      watertileset3qb2tg0_81: 7377721302043822205
+      watertileset3qb2tg0_64: -7275040224228792419
+      watertileset3qb2tg0_5: -6786589126538223368
+      watertileset3qb2tg0_50: 3463550262868818692
+      watertileset3qb2tg0_13: -1673227172339102742
+      watertileset3qb2tg0_63: -861631570833721428
+      watertileset3qb2tg0_56: -1396707706192116443
+      watertileset3qb2tg0_87: -2030131946047570050
+      watertileset3qb2tg0_79: -6234921252465252197
+      watertileset3qb2tg0_88: -8004858424656126309
+      watertileset3qb2tg0_59: 3623188824676428759
+      watertileset3qb2tg0_25: 7729225640168112418
+      watertileset3qb2tg0_57: 3476241581774602913
+      watertileset3qb2tg0_47: 182783020468508973
+      watertileset3qb2tg0_30: 302852403882770151
+      watertileset3qb2tg0_52: -6185442814988019416
+      watertileset3qb2tg0_84: 8277968479203348428
+      watertileset3qb2tg0_4: 5475839841203294362
+      watertileset3qb2tg0_51: -6924262785665151025
+      watertileset3qb2tg0_19: 9118487026299321830
+      watertileset3qb2tg0_48: -5872349250059202082
+      watertileset3qb2tg0_77: 2333126092236973394
+      watertileset3qb2tg0_26: 4194553546968932162
+      watertileset3qb2tg0_67: 6294800073695265087
+      watertileset3qb2tg0_17: -3577481357883172929
+      watertileset3qb2tg0_1: 26813384706400563
+      watertileset3qb2tg0_10: -7876378887821801436
+      watertileset3qb2tg0_32: 1526171233238066836
+      watertileset3qb2tg0_35: 8642426935911625784
+      watertileset3qb2tg0_20: 4888411326697492251
+      watertileset3qb2tg0_43: 8676650351875265075
+      watertileset3qb2tg0_2: 3601996677834359161
+      watertileset3qb2tg0_15: 6250272842767583686
+      watertileset3qb2tg0_75: 450883842451019511
+      watertileset3qb2tg0_6: -5509320427736010056
+      watertileset3qb2tg0_78: -8500579467922602
+      watertileset3qb2tg0_66: -5779363474742704814
+      watertileset3qb2tg0_86: -3206877041620581441
+      watertileset3qb2tg0_38: -62035372975078380
+      watertileset3qb2tg0_22: 9086083374517204862
+      watertileset3qb2tg0_71: 660669645117933223
+      watertileset3qb2tg0_29: -2902719917179287394
+      watertileset3qb2tg0_45: -1660455310272186223
+      watertileset3qb2tg0_46: -2781226742558687803
+      watertileset3qb2tg0_3: 353543022886626558
+      watertileset3qb2tg0_40: -7398587660557042250
+      watertileset3qb2tg0_70: 37713465645478644
+      watertileset3qb2tg0_65: -5277322602643245792
+      watertileset3qb2tg0_39: 8140597176003043806
+      watertileset3qb2tg0_58: -2358192933475150928
+      watertileset3qb2tg0_23: 1329094655898939265
+      watertileset3qb2tg0_12: -7557688257922056636
+      watertileset3qb2tg0_73: 4880501593368496017
+      watertileset3qb2tg0_33: 6101162913130792229
+      watertileset3qb2tg0_74: 9210500807290874899
+      watertileset3qb2tg0_83: -3576260949326961834
+      watertileset3qb2tg0_0: 8210091325443630964
+      watertileset3qb2tg0_34: -5538839056751338813
+      watertileset3qb2tg0_31: 4612569605664408742
+      watertileset3qb2tg0_42: -2552888191767400758
+      watertileset3qb2tg0_69: 3170471053920963429
+      watertileset3qb2tg0_60: -7913140964881334264
+      watertileset3qb2tg0_55: -514072161609516619
+      watertileset3qb2tg0_16: 2946883977266213728
+      watertileset3qb2tg0_68: -2310978055025499155
+      watertileset3qb2tg0_36: 1603048175649089802
+      watertileset3qb2tg0_21: 3723110089799242299
+      watertileset3qb2tg0_18: 215489960512711786
+      watertileset3qb2tg0_72: 7214106465614813285
+      watertileset3qb2tg0_82: 2749786230926122502
+      watertileset3qb2tg0_49: -3482144365138503036
+      watertileset3qb2tg0_7: 8164028172930170566
+      watertileset3qb2tg0_44: -4996048638472214845
+      watertileset3qb2tg0_41: 4276485863125646083
+      watertileset3qb2tg0_80: -1235373483552912523
+      watertileset3qb2tg0_11: 7398804445949427931
+      watertileset3qb2tg0_14: -5167817435711790577
+      watertileset3qb2tg0_53: -8669415696959693098
+      watertileset3qb2tg0_24: -6858100870241005425
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

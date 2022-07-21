@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d76fd6157287149b0a94dac32c2b49, type: 3}
+  m_Name: FloraDataParsnip
+  m_EditorClassIdentifier: 
+  uniqueType: Parsnip
+  ID: 9
+  destructionSpeedFactor: 1
+  outputResources:
+  - requiredResource:
+      resource: {fileID: 11400000, guid: f5202f30b8b704445b1985954ff692c4, type: 2}
+      count: 2
+    probability: 1
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 8d5a156dd5125304b864ff5ee9f3a931, type: 2}
+      count: 2
+    probability: 0.85
+  requiredToGrow:
+  - resource: {fileID: 11400000, guid: 8d5a156dd5125304b864ff5ee9f3a931, type: 2}
+    count: 1
+  growable: 1
+  prefabOffset: {x: 0, y: 0}
+  icon: {fileID: 21300000, guid: 338f8cb9200abe542b38d023fda4abc6, type: 3}
+  seedlingPrefab: {fileID: 1511123826957672589, guid: 75fea17505cd13b4eb331145dd0bce5b,
+    type: 3}
+  growingPrefab: {fileID: 1511123826957672589, guid: 75fea17505cd13b4eb331145dd0bce5b,
+    type: 3}
+  maturePrefab: {fileID: 1511123826957672589, guid: db036f09f03134f41abee64161e27591,
+    type: 3}
+  allowedTiles:
+  - {fileID: 11400000, guid: 1761ecddab464734b9b2dada44f454a0, type: 2}
+  - {fileID: 11400000, guid: 8b0d17a9caabdc44b8d5ad52be575941, type: 2}
+  spreadChance: 0
+  spreadCount: 0000000000000000
+  growthSeasons: 01010000
+  baseYield: 2
+  size: {x: 1, y: 1}
+  daysToMature: 4
+  floraCategory: 3
+  qualityTier: 2

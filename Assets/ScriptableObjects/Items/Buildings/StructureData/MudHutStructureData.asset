@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59b6781fe5a80d40898e120edcd6527, type: 3}
+  m_Name: MudHutStructureData
+  m_EditorClassIdentifier: 
+  ID: 1
+  structureName: MudHut
+  structureDescription: A small hut.
+  ghostPrefab: {fileID: 383752563584175513, guid: 2d541d7aac60a4c488649a26e2c49541,
+    type: 3}
+  loadingPrefab: {fileID: 1168450419687055117, guid: 10825c6b95027044a954013c912711ff,
+    type: 3}
+  completedStructure: {fileID: 7065488471271754532, guid: c099de05f1dcbc6479d5ecb676d74e2e,
+    type: 3}
+  requiredRes:
+  - resource: {fileID: 11400000, guid: 9ff7c6926b597fa4baefc18d27b2f37e, type: 2}
+    count: 50
+  - resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+    count: 50
+  possiblePurposes:
+  - {fileID: 11400000, guid: 84280c25ca42e5a47af0ab414c41199d, type: 2}
+  - {fileID: 11400000, guid: 8040db71cd562054d9c239458634ce41, type: 2}
+  - {fileID: 11400000, guid: a91685e32300b4a4ea3305322f01bbc3, type: 2}
+  - {fileID: 11400000, guid: 5e6be3d36be7db6489f2aa3c6010a3ff, type: 2}
+  - {fileID: 11400000, guid: 55512c5f45915a1488c4a6b035ebeb15, type: 2}
+  - {fileID: 11400000, guid: 6b51861b124e09041bc8d86c0a2133c5, type: 2}
+  qualityTier: 0
+  requiredTiles: []
+  offset: {x: 0.5, y: 0.5}
+  maxWorkers: 1
+  maxCreations: 3
+  maxCropCount: 30
+  radiusMultiplier: 1
+  buildingSprite: {fileID: 21300000, guid: 511af73a8c473b941b32721289bf2a0d, type: 3}
+  buildingIcon: {fileID: 21300000, guid: f3991acf56a186949b1c0d97de1044f9, type: 3}
+  inventoryStorageMax: 400
+  buildingWeight: 1
+  maxResourceExtraction: -1

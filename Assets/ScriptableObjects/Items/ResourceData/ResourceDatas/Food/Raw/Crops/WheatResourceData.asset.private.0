@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb16cc6247bfb1c4d9928d4856b1be5a, type: 3}
+  m_Name: WheatResourceData
+  m_EditorClassIdentifier: 
+  ID: 5
+  resourceName: Wheat
+  perishableTimer: 20
+  tradeable: 1
+  resourceValue: 1
+  description: Wheat is used in the production of bread and other foodstuffs.
+  weightPerItem: 0.5
+  hungerRegeneration: 0
+  icon: {fileID: 21300000, guid: f912201aba818e746ae1492f3997b42d, type: 3}
+  iconColour: {r: 1, g: 1, b: 1, a: 1}
+  craftingCategoryQuality: 1
+  categoryType: 1
+  subCategory: 4
+  maxTraderCapacity: 5

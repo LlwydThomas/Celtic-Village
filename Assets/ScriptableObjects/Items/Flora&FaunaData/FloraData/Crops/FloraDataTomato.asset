@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d76fd6157287149b0a94dac32c2b49, type: 3}
+  m_Name: FloraDataTomato
+  m_EditorClassIdentifier: 
+  uniqueType: Tomato
+  ID: 10
+  destructionSpeedFactor: 1
+  outputResources:
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 028b929e9ef0e204dbd9c7f664479404, type: 2}
+      count: 3
+    probability: 1
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 508c3ec69718bc043b0949234399a509, type: 2}
+      count: 2
+    probability: 0.85
+  requiredToGrow:
+  - resource: {fileID: 11400000, guid: 508c3ec69718bc043b0949234399a509, type: 2}
+    count: 1
+  growable: 1
+  prefabOffset: {x: 0, y: 0}
+  icon: {fileID: 21300000, guid: ad25b03768677f044aa4f2aa7771bc56, type: 3}
+  seedlingPrefab: {fileID: 1511123826957672589, guid: 749bca7808c1cd048aa470b457405795,
+    type: 3}
+  growingPrefab: {fileID: 1511123826957672589, guid: 749bca7808c1cd048aa470b457405795,
+    type: 3}
+  maturePrefab: {fileID: 1511123826957672589, guid: f42c717c08dea22448ef4b76a428b49a,
+    type: 3}
+  allowedTiles:
+  - {fileID: 11400000, guid: 1761ecddab464734b9b2dada44f454a0, type: 2}
+  - {fileID: 11400000, guid: 8b0d17a9caabdc44b8d5ad52be575941, type: 2}
+  spreadChance: 0
+  spreadCount: 0000000000000000
+  growthSeasons: 00010100
+  baseYield: 2
+  size: {x: 1, y: 1}
+  daysToMature: 6
+  floraCategory: 3
+  qualityTier: 2

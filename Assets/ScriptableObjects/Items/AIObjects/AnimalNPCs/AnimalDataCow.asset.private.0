@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f9c40e6b5280e4c89f60b754522a6b, type: 3}
+  m_Name: AnimalDataCow
+  m_EditorClassIdentifier: 
+  ID: 1
+  uniqueName: Cow
+  outputResources:
+  - requiredResource:
+      resource: {fileID: 11400000, guid: b57d934447bb46a43ab63ef381586f83, type: 2}
+      count: 2
+    probability: 1
+  - requiredResource:
+      resource: {fileID: 11400000, guid: 47384c6f0ce3fcf41bd5122e41e6746d, type: 2}
+      count: 3
+    probability: 0.7
+  prefab: {fileID: 8221072685535599845, guid: 6ab2e1246931774468ba666353fc8899, type: 3}
+  minAndMaxCount: 0100000006000000
+  size: {x: 0, y: 0}
+  spawnProbability: 0.4
+  timeToKill: 1

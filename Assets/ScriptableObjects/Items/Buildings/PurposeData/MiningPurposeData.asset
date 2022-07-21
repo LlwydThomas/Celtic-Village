@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f8e68128a90d94b8dd1eaa8828c62c, type: 3}
+  m_Name: MiningPurposeData
+  m_EditorClassIdentifier: 
+  ID: 4
+  purposeName: Mining
+  purposeDescription: Obtain minerals from the ground.
+  relevantSkill: {fileID: 11400000, guid: 42c2badf9d2d75f4e966b2c7a05173c0, type: 2}
+  radius: 0
+  radiusReqs: []
+  requiredResources: []
+  possibleFloraCreations: []
+  possibleFish: []
+  possibleCraftingRecipes: []
+  possibleMinerals:
+  - probableRequiredResource:
+      requiredResource:
+        resource: {fileID: 11400000, guid: d429f9c31628f29458f0e4f6ffbebad7, type: 2}
+        count: 3
+      probability: 0.4
+    resourceTier: 0
+  - probableRequiredResource:
+      requiredResource:
+        resource: {fileID: 11400000, guid: 2d5a48f0e86b5d6489ee39e81ebed570, type: 2}
+        count: 3
+      probability: 0.3
+    resourceTier: 0
+  - probableRequiredResource:
+      requiredResource:
+        resource: {fileID: 11400000, guid: 5b57dbf418515b94cba39d85c06418f6, type: 2}
+        count: 3
+      probability: 0.15
+    resourceTier: 0
+  - probableRequiredResource:
+      requiredResource:
+        resource: {fileID: 11400000, guid: ba762bf3400034547b1d466a73142016, type: 2}
+        count: 3
+      probability: 0.15
+    resourceTier: 0
+  - probableRequiredResource:
+      requiredResource:
+        resource: {fileID: 11400000, guid: 729b2b6f644e7f9489270f4f1011e34e, type: 2}
+        count: 0
+      probability: 0.1
+    resourceTier: 1
+  permittedTasks:
+  - {fileID: 11400000, guid: d6c887e9aecfb4c45824eb11219144b2, type: 2}
+  associatedStorage: 0
+  workersRequired: 1
+  automaticEmptyTaskCreation: 1
+  icon: {fileID: 21300000, guid: 57dd8de6f8c4e024c8ceedcca0fcf631, type: 3}
+  maxCropsApplies: 0
+  maxCreationsApplies: 0

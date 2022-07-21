@@ -1,0 +1,220 @@
+{
+   "dataList":[
+      {
+         "variable":"Wattle&Daub",
+         "value":"Wattle & Daub"
+      },
+      {
+         "variable":"Water",
+         "value":"Water"
+      },
+      {
+         "variable":"Stone",
+         "value":"Stone"
+      },
+      {
+         "variable":"Wood",
+         "value":"Wood"
+      },
+      {
+         "variable":"Wheat",
+         "value":"Wheat"
+      },
+      {
+         "variable":"Bread",
+         "value":"Bread"
+      },
+      {
+         "variable":"CookedFish",
+         "value":"Cooked Fish"
+      },
+      {
+         "variable":"Bilberries",
+         "value":"Bilberries"
+      },
+      {
+         "variable":"Clay",
+         "value":"Clay"
+      },
+      {
+         "variable":"Cod",
+         "value":"Cod"
+      },
+      {
+         "variable":"Salmon",
+         "value":"Salmon"
+      },
+      {
+         "variable":"Lamprey",
+         "value":"Lamprey"
+      },
+      {
+         "variable":"Pike",
+         "value":"Pike"
+      },
+      {
+         "variable":"OakSeed",
+         "value":"Acorns"
+      },
+      {
+         "variable":"BirchSeed",
+         "value":"Birch Seeds"
+      },
+      {
+         "variable":"Food",
+         "value":"Food"
+      },
+      {
+         "variable":"Material",
+         "value":"Material"
+      },
+      {
+         "variable":"Trading",
+         "value":"Trade Goods"
+      },
+      {
+         "variable":"Fish",
+         "value":"Fish"
+      },
+      {
+         "variable":"Berry",
+         "value":"Berry"
+      },
+      {
+         "variable":"Seed",
+         "value":"Seed"
+      },
+      {
+         "variable":"Art",
+         "value":"Art"
+      },
+      {
+         "variable":"Tool",
+         "value":"Tool"
+      },
+      {
+         "variable":"Crop",
+         "value":"Crop"
+      },
+      {
+         "variable":"CookedFood",
+         "value":"Cooked Food"
+      },
+      {
+         "variable":"Vendace",
+         "value":"Vendace"
+      },
+      {
+         "variable":"Carrot",
+         "value":"Carrot"
+      },
+      {
+         "variable":"Leek",
+         "value":"Leek"
+      },
+      {
+         "variable":"Parsnip",
+         "value":"Parsnip"
+      },
+      {
+         "variable":"Potato",
+         "value":"Potato"
+      },
+      {
+         "variable":"Tomato",
+         "value":"Tomato"
+      },
+      {
+         "variable":"BoarTusk",
+         "value":"Boar Tusk"
+      },
+      {
+         "variable":"Leather",
+         "value":"Leather"
+      },
+      {
+         "variable":"Wool",
+         "value":"Wool"
+      },
+      {
+         "variable":"BerryPie",
+         "value":"Berry Pie"
+      },
+      {
+         "variable":"FishStew",
+         "value":"Fish Stew"
+      },
+      {
+         "variable":"MeatStew",
+         "value":"Meat Stew"
+      },
+      {
+         "variable":"SimpleMeal",
+         "value":"Simple Meal"
+      },
+      {
+         "variable":"VegetableStew",
+         "value":"Vegetable Stew"
+      },
+      {
+         "variable":"Raspberry",
+         "value":"Raspberyy"
+      },
+      {
+         "variable":"RawMeat",
+         "value":"Raw Meat"
+      },
+      {
+         "variable":"Reed",
+         "value":"Reed"
+      },
+      {
+         "variable":"Bronze",
+         "value":"Bronze"
+      },
+      {
+         "variable":"Tin",
+         "value":"Tin"
+      },
+      {
+         "variable":"Copper",
+         "value":"Copper"
+      },
+      {
+         "variable":"IronOre",
+         "value":"Iron Ore"
+      },
+      {
+         "variable":"Iron",
+         "value":"Iron"
+      },
+      {
+         "variable":"CarrotSeed",
+         "value":"Carrot Seeds"
+      },
+      {
+         "variable":"LeekSeed",
+         "value":"Leek Seeds"
+      },
+      {
+         "variable":"ParsnipSeed",
+         "value":"Parsnip Seeds"
+      },
+      {
+         "variable":"TomatoSeed",
+         "value":"Tomato Seeds"
+      },
+      {
+         "variable":"PotatoSeed",
+         "value":"Potato Seeds"
+      },
+      {
+         "variable":"WillowSeed",
+         "value":"Willow Seeds"
+      },
+      {
+         "variable":"WheatSeed",
+         "value":"Wheat Seeds"
+      }
+   ]
+}

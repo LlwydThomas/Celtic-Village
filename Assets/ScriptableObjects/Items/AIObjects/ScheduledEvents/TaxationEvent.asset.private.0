@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca2f565b67cb874bbe9aef104d72f54, type: 3}
+  m_Name: TaxationEvent
+  m_EditorClassIdentifier: 
+  ID: 4
+  uniqueName: TaxationDue
+  confirmationRequired: 0
+  locRequired: 0
+  independentEvent: 1
+  percentageChance: 1
+  eventConditions:
+  - value: 2
+    comparisonValue: 1
+    conditionIdentifier: 2

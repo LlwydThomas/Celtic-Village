@@ -1,0 +1,54 @@
+{
+   "dataList":[
+      {
+         "variable":"MudHut",
+         "value":"Mud Hut"
+      },
+      {
+         "variable":"MudHutDescription",
+         "value":"Tier I. Mud huts can be assigned to sleeping, woodcutting, farming, foraging, storage and crafting."
+      },{
+         "variable":"WoodHut",
+         "value":"Wooden Hut"
+      },
+      {
+         "variable":"WoodHutDescription",
+         "value":"Tier II. Wooden huts can be assigned to sleeping, woodcutting, farming, foraging, storage and crafting."
+      },{
+         "variable":"StoneHut",
+         "value":"Stone Hut"
+      },
+      {
+         "variable":"StoneHutDescription",
+         "value":"Tier III. Stone huts can be assigned to sleeping, woodcutting, farming, foraging, storage and crafting."
+      },{
+         "variable":"SmallFishHut",
+         "value":"Wooden Pier"
+      },
+      {
+         "variable":"SmallFishHutDescription",
+         "value":"Tier I. Wooden piers are used to catch a variety of fish species such as cod, pike and salmon."
+      },{
+         "variable":"LargeFishHut",
+         "value":"Iron Pier"
+      },
+      {
+         "variable":"LargeFishHutDescription",
+         "value":"Tier II. Iron piers are used to catch a variety of fish species such as cod, pike, salmon, lamprey and vendace."
+      },{
+         "variable":"SmallMine",
+         "value":"Small Mine"
+      },
+      {
+         "variable":"SmallMineDescription",
+         "value":"Tier I. Small mines are able to collect minerals such as rock, clay, tin and copper."
+      },{
+         "variable":"LargeMine",
+         "value":"Large Mine"
+      },
+      {
+         "variable":"LargeMineDescription",
+         "value":"Tier II. Large mines are able to collect minerals such as rock, clay, tin, copper and iron."
+      }
+   ]
+}

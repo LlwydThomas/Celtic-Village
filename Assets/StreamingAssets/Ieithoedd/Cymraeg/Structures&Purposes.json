@@ -1,0 +1,54 @@
+{
+   "dataList":[
+      {
+         "variable":"MudHut",
+         "value":"Cwt Mwd"
+      },
+      {
+         "variable":"MudHutDescription",
+         "value":"Dosbarth I. Gellir neilltuo cytiau mwd i gysgu, torri coed, ffermio, chwilota, storio a chrefftio."
+      },{
+         "variable":"WoodHut",
+         "value":"Cwt Pren"
+      },
+      {
+         "variable":"WoodHutDescription",
+         "value":"Dosbarth II. Gellir neilltuo cytiau pren i gysgu, torri coed, ffermio, chwilota, storio a chrefftio."
+      },{
+         "variable":"StoneHut",
+         "value":"Cwt Cerrig"
+      },
+      {
+         "variable":"StoneHutDescription",
+         "value":"Dosbarth III. Gellir neilltuo cytiau cerrig i gysgu, torri coed, ffermio, chwilota, storio a chrefftio."
+      },{
+         "variable":"SmallFishHut",
+         "value":"Pysgodfa Fach"
+      },
+      {
+         "variable":"SmallFishHutDescription",
+         "value":"Dosbarth I. Defnyddir pysgodfeydd fach i ddal amrywiaeth o bysgod fel penfras, eog, a phenhwyad."
+      },{
+         "variable":"LargeFishHut",
+         "value":"Pysgodfa Fawr"
+      },
+      {
+         "variable":"LargeFishHutDescription",
+         "value":"Dosbarth II. Defnyddir pysgodfeydd fawr i ddal amrywiaeth o bysgod fel penfras, eog, penhwyad, gwyniad a lleiprog."
+      },{
+         "variable":"SmallMine",
+         "value":"Cloddfa Fach"
+      },
+      {
+         "variable":"SmallMineDescription",
+         "value":"Dosbarth I. Gall cloddfeydd fach gasglu mwynau fel carreg, clai, tun a chopr."
+      },{
+         "variable":"LargeMine",
+         "value":"Cloddfa Fawr"
+      },
+      {
+         "variable":"LargeMineDescription",
+         "value":"Dosbarth II. Gall cloddfeydd fawr gasglu mwynau fel carreg, clai, tun, chopr ac haearn."
+      }
+   ]
+}

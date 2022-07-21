@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f8e68128a90d94b8dd1eaa8828c62c, type: 3}
+  m_Name: StoragePurposeData
+  m_EditorClassIdentifier: 
+  ID: 6
+  purposeName: Storage
+  purposeDescription: Allows for the storage of resources.
+  relevantSkill: {fileID: 0}
+  radius: 0
+  radiusReqs: []
+  requiredResources:
+  - resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+    count: 100
+  possibleFloraCreations: []
+  possibleFish: []
+  possibleCraftingRecipes: []
+  possibleMinerals: []
+  permittedTasks: []
+  associatedStorage: 1
+  workersRequired: 0
+  automaticEmptyTaskCreation: 1
+  icon: {fileID: 21300000, guid: 7ee6137f3dbc52d4a99e349aa0febd10, type: 3}
+  maxCropsApplies: 0
+  maxCreationsApplies: 0

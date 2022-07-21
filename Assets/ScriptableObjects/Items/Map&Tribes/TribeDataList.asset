@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4abba01a076ad9645902d68708da4951, type: 3}
+  m_Name: TribeDataList
+  m_EditorClassIdentifier: 
+  tribeColours:
+  - id: 1
+    name: Dumnoni
+    hexCode: 601C44
+  - id: 2
+    name: Durotriges
+    hexCode: 54595D
+  - id: 3
+    name: Belgae
+    hexCode: 7B5570
+  - id: 4
+    name: Regni
+    hexCode: 54575D
+  - id: 5
+    name: Atrebartes
+    hexCode: A4A4B0
+  - id: 6
+    name: Cantiaci
+    hexCode: D0DCE8
+  - id: 7
+    name: Trinovantes
+    hexCode: 64284C
+  - id: 8
+    name: Dobunni
+    hexCode: 082420
+  - id: 9
+    name: Silures
+    hexCode: A4A8B4
+  - id: 10
+    name: Demetae
+    hexCode: DCE4EC
+  - id: 11
+    name: Ordovices
+    hexCode: ACB0BC
+  - id: 12
+    name: Cornabi
+    hexCode: 80607C
+  - id: 13
+    name: Catyeuchlani
+    hexCode: A4ACB4
+  - id: 14
+    name: Parisi
+    hexCode: 7C8088
+  - id: 15
+    name: Brigantes
+    hexCode: 744868
+  - id: 16
+    name: Simeni
+    hexCode: 846880
+  - id: 17
+    name: Coritani
+    hexCode: A0A0B0

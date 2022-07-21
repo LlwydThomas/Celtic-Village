@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb16cc6247bfb1c4d9928d4856b1be5a, type: 3}
+  m_Name: ResourceDataNew
+  m_EditorClassIdentifier: 
+  resourceName: 
+  perishableTimer: 0
+  resourceValue: 0
+  tradeable: 0
+  description: This item will allow for the usage of the many types

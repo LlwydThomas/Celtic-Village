@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59b6781fe5a80d40898e120edcd6527, type: 3}
+  m_Name: SmallFishHutStructure
+  m_EditorClassIdentifier: 
+  ID: 6
+  structureName: SmallFishHut
+  structureDescription: 
+  ghostPrefab: {fileID: 6995825065887670349, guid: 2d8a447e6b0ded54bb2b6776b2df1358,
+    type: 3}
+  loadingPrefab: {fileID: 6995825065887670349, guid: 973af8155eb6661459f0278c32e9f23c,
+    type: 3}
+  completedStructure: {fileID: 6995825065887670349, guid: 2a9b1d26892af694293c89c74d099c8c,
+    type: 3}
+  requiredRes:
+  - resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+    count: 100
+  possiblePurposes:
+  - {fileID: 11400000, guid: aff63aea473cec944b8bce7c087cea3c, type: 2}
+  qualityTier: 0
+  requiredTiles:
+  - count: 2
+    allowedTiles:
+    - {fileID: 11400000, guid: 706bb9b974b1cd3478621d6a33e6c292, type: 2}
+  - count: 2
+    allowedTiles:
+    - {fileID: 11400000, guid: 8b0d17a9caabdc44b8d5ad52be575941, type: 2}
+    - {fileID: 11400000, guid: 1761ecddab464734b9b2dada44f454a0, type: 2}
+    - {fileID: 11400000, guid: bcca8515218a388459ee55fd8006ef38, type: 2}
+  offset: {x: 0, y: 0}
+  maxWorkers: 1
+  maxCreations: -1
+  maxCropCount: 0
+  radiusMultiplier: 0
+  buildingSprite: {fileID: 21300000, guid: 881c3cfbae8c1064a93fca86f9e242b0, type: 3}
+  buildingIcon: {fileID: 21300000, guid: 680c67848973c1b4fae30a1a8d4ba46b, type: 3}
+  inventoryStorageMax: -1
+  buildingWeight: 1
+  maxResourceExtraction: 100

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb16cc6247bfb1c4d9928d4856b1be5a, type: 3}
+  m_Name: WillowSeedResourceData
+  m_EditorClassIdentifier: 
+  ID: 43
+  resourceName: WillowSeed
+  perishableTimer: 0
+  tradeable: 1
+  resourceValue: 3
+  description: A Birch seed.
+  weightPerItem: 0.5
+  hungerRegeneration: 0
+  icon: {fileID: 21300000, guid: 7b6bae86f605f174cb20ac1a9e3c935a, type: 3}
+  iconColour: {r: 0.09131362, g: 0.33962262, b: 0.09330593, a: 1}
+  craftingCategoryQuality: 1
+  categoryType: 1
+  subCategory: 2
+  maxTraderCapacity: 5

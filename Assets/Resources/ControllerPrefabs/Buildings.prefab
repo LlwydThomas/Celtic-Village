@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8213667672927646728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8213667672927646730}
+  - component: {fileID: 8213667672927646731}
+  - component: {fileID: 8213667672927646725}
+  m_Layer: 0
+  m_Name: Buildings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8213667672927646730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8213667672927646728}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -19.255798, y: 63.098907, z: 100.31801}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8213667672927646731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8213667672927646728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f4c5ff9100ae445a6aa98191d78335, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  structureDataListObject: {fileID: 11400000, guid: fa7666e565f64164a8764c2c75ad6e8a,
+    type: 2}
+  structureDatas: []
+  purposeDataListObject: {fileID: 11400000, guid: ca8d231e363b78b48864e5ea7d24fed9,
+    type: 2}
+  purposeDatas: []
+  skillList: []
+  buildList: []
+  skillModel: {fileID: 0}
+  functionHandlerPrefab: {fileID: 8938212755181872472, guid: 0567d1d85626b8640a8b8d9d28704940,
+    type: 3}
+--- !u!114 &8213667672927646725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8213667672927646728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 727d38d75e93bad46926bc4bd38027d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roadTile: {fileID: 11400000, guid: 4064d5acf245de74ba6fc9086a387bae, type: 2}
+  TopMap: {fileID: 0}
+  OverMap: {fileID: 0}
+  startingPos: {x: 0, y: 0, z: 0}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59b6781fe5a80d40898e120edcd6527, type: 3}
+  m_Name: WoodHutStructureData
+  m_EditorClassIdentifier: 
+  ID: 2
+  structureName: WoodHut
+  structureDescription: A small hut.
+  ghostPrefab: {fileID: 383752563584175513, guid: 8f235c44f0d83a84182dfbe2ce6c444c,
+    type: 3}
+  loadingPrefab: {fileID: 1168450419687055117, guid: e4d656035654d7a4795ddffdb5b2eec6,
+    type: 3}
+  completedStructure: {fileID: 7065488471271754532, guid: e7d948449e7505f4e8dab22223eed34b,
+    type: 3}
+  requiredRes:
+  - resource: {fileID: 11400000, guid: 9ff7c6926b597fa4baefc18d27b2f37e, type: 2}
+    count: 100
+  - resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+    count: 200
+  - resource: {fileID: 11400000, guid: d2f9c1783c97d3745b51d8bd5abea47b, type: 2}
+    count: 50
+  possiblePurposes:
+  - {fileID: 11400000, guid: 84280c25ca42e5a47af0ab414c41199d, type: 2}
+  - {fileID: 11400000, guid: 8040db71cd562054d9c239458634ce41, type: 2}
+  - {fileID: 11400000, guid: a91685e32300b4a4ea3305322f01bbc3, type: 2}
+  - {fileID: 11400000, guid: 5e6be3d36be7db6489f2aa3c6010a3ff, type: 2}
+  - {fileID: 11400000, guid: 55512c5f45915a1488c4a6b035ebeb15, type: 2}
+  - {fileID: 11400000, guid: 6b51861b124e09041bc8d86c0a2133c5, type: 2}
+  qualityTier: 1
+  requiredTiles: []
+  offset: {x: 0.5, y: 0.5}
+  maxWorkers: 2
+  maxCreations: 4
+  maxCropCount: 40
+  radiusMultiplier: 1.2
+  buildingSprite: {fileID: 21300000, guid: 5ffc5cb804110044fbfeb0ce05c841f8, type: 3}
+  buildingIcon: {fileID: 21300000, guid: d0d730a8e44a7a846bb6193d13e2501d, type: 3}
+  inventoryStorageMax: 700
+  buildingWeight: 2
+  maxResourceExtraction: 0

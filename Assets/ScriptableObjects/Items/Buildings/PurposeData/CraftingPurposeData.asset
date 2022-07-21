@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f8e68128a90d94b8dd1eaa8828c62c, type: 3}
+  m_Name: CraftingPurposeData
+  m_EditorClassIdentifier: 
+  ID: 2
+  purposeName: Crafting
+  purposeDescription: Woodcutting.
+  relevantSkill: {fileID: 11400000, guid: ca870b8b1bfddfc48b76afd2f9c75f1e, type: 2}
+  radius: 0
+  radiusReqs: []
+  requiredResources:
+  - resource: {fileID: 11400000, guid: 05fe5f92fe332b14cbd6c289350c86c2, type: 2}
+    count: 100
+  - resource: {fileID: 11400000, guid: d429f9c31628f29458f0e4f6ffbebad7, type: 2}
+    count: 100
+  possibleFloraCreations: []
+  possibleFish: []
+  possibleCraftingRecipes:
+  - {fileID: 11400000, guid: 55d8cc09dd100ac4b97475df72b799a0, type: 2}
+  - {fileID: 11400000, guid: 2fbab68e7539cd049abd260fecf6a494, type: 2}
+  - {fileID: 11400000, guid: 9f3b6376314efaf4896120039ceb2f94, type: 2}
+  - {fileID: 11400000, guid: eb346d0c7f459de4db018d7e1ba414ab, type: 2}
+  - {fileID: 11400000, guid: 64b657381fc68e64cbc04a03f0b0bdb9, type: 2}
+  - {fileID: 11400000, guid: d61dda47c997b9b4bb5344188790d308, type: 2}
+  - {fileID: 11400000, guid: e6cb168408239c34db38fca8bf56ff05, type: 2}
+  - {fileID: 11400000, guid: ac32b76d2718f884085b3eef9caee505, type: 2}
+  - {fileID: 11400000, guid: dcb997201a89c38409c7fef22d77fba2, type: 2}
+  - {fileID: 11400000, guid: 629c8c36bc9180c4497afc950d132f9b, type: 2}
+  possibleMinerals: []
+  permittedTasks:
+  - {fileID: 11400000, guid: 65b3ec83301c6ad4bafb548ce6c038be, type: 2}
+  associatedStorage: 0
+  workersRequired: 1
+  automaticEmptyTaskCreation: 1
+  icon: {fileID: 21300000, guid: d834469f93ab338459e22802a4de2743, type: 3}
+  maxCropsApplies: 0
+  maxCreationsApplies: 0
